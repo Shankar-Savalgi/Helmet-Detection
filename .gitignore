@@ -1,0 +1,18 @@
+# Python environment
+venv/
+__pycache__/
+*.py[cod]
+
+# Temporary files
+runs/
+models/.cache/
+first_frame.jpg
+test_crop.jpg
+
+# Large video files
+videos/*.mp4
+output/*.mp4
+
+# Development copies
+video_detect_v3_backup.py
+video_detect_v3_test.py
